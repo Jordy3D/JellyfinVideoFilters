@@ -5,7 +5,7 @@ Until I learn of a better way of doing this on here, to "install" this you will 
 You are free to rename the bookmark from there.
 [Jellyfin Video Filter](https://raw.githubusercontent.com/Jordy3D/JellyfinVideoFilters/main/jellyfinvideofilter.js)
 
-If you click the bookmarklet while a video file is playing, a button will appear in the bottom right, beside the volume bar.
+If you click the bookmarklet while a video file is playing, a button will appear in the bottom right, beside the volume bar.  
 ![PreviewLocation](https://i.imgur.com/RB2HbNw.png)
 
 Clicking the button will bring up the filter control menu.  
