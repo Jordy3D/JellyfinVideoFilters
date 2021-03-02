@@ -9,6 +9,6 @@ If you click the bookmarklet while a video file is playing, a button will appear
 
 Clicking the button will bring up the filter control menu.  
 A list of the options available can be seen here.  
-![PreviewOptions](https://i.imgur.com/lU5VFCL.png)  
+![PreviewOptions](https://raw.githubusercontent.com/Jordy3D/JellyfinVideoFilters/main/images/menu.png)  
 
 To close the menu, simply click the button again.
